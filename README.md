@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitshinde0707&label=Profile%20views&color=0e75b6&style=flat" alt="rohitshinde0707" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rohitshinde" target="blank"><img src="https://img.shields.io/twitter/follow/rohitshinde?logo=twitter&style=for-the-badge" alt="rohitshinde" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rohit_SHINDE07" target="blank"><img src="https://img.shields.io/twitter/follow/rohitshinde?logo=twitter&style=for-the-badge" alt="rohitshinde" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
